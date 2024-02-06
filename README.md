@@ -19,4 +19,6 @@ To assemble Ashartak, you will need the following components:
 - jump wire
 
  ## Installatio
- 
+ <p align="center">
+<img width="1100px"  src="img/Ashartak-(2).png">
+</p>
