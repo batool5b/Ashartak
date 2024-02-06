@@ -20,5 +20,5 @@ To assemble Ashartak, you will need the following components:
 
  ## Installatio
  <p align="center">
-<img width="1100px"  src="img/Ashartak-(2).png">
+<img width="1100px"  src="img/Ashartak.png">
 </p>
